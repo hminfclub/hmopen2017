@@ -1,9 +1,24 @@
-# Открытая городская олимпиада по программированию
+# РћС‚РєСЂС‹С‚Р°СЏ РіРѕСЂРѕРґСЃРєР°СЏ РѕР»РёРјРїРёР°РґР° РїРѕ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЋ
 
-29 апреля 2017 года, Ханты-Мансийск
+29 Р°РїСЂРµР»СЏ 2017 РіРѕРґР°, РҐР°РЅС‚С‹-РњР°РЅСЃРёР№СЃРє
 
-Авторы задач — Никита Сычев, Арслан Акназаров
+[РЈСЃР»РѕРІРёСЏ Р·Р°РґР°С‡](https://github.com/nsychev/hmopen2017/blob/master/problems.pdf)
 
-[Результаты](https://contest.yandex.ru/contest/4472/standings/)
+[РџСЂРµР·РµРЅС‚Р°С†РёСЏ СЃ СЂР°Р·Р±РѕСЂРѕРј](https://github.com/nsychev/hmopen2017/blob/master/analysis.pdf)
+
+## РђРІС‚РѕСЂСЃРєРёРµ СЂРµС€РµРЅРёСЏ
+
+Р—Р°РґР°С‡Р° | Pascal | C++ | Python
+------ | ------ | --- | ------
+A | [A.pas](https://github.com/nsychev/hmopen2017/blob/master/A.pas) | [A.cpp](https://github.com/nsychev/hmopen2017/blob/master/A.cpp) | [A.py](https://github.com/nsychev/hmopen2017/blob/master/A.py)
+B | [B.pas](https://github.com/nsychev/hmopen2017/blob/master/B.pas) | [B.cpp](https://github.com/nsychev/hmopen2017/blob/master/B.cpp) | [B.py](https://github.com/nsychev/hmopen2017/blob/master/B.py)
+C | [C.pas](https://github.com/nsychev/hmopen2017/blob/master/C.pas) | [C.cpp](https://github.com/nsychev/hmopen2017/blob/master/C.cpp) | [C.py](https://github.com/nsychev/hmopen2017/blob/master/C.py)
+D | [D.pas](https://github.com/nsychev/hmopen2017/blob/master/D.pas) РёР»Рё [СЂРµС€РµРЅРёРµ Р±РµР· РјР°СЃСЃРёРІРѕРІ](https://github.com/nsychev/hmopen2017/blob/master/D_light.pas) | [D.cpp](https://github.com/nsychev/hmopen2017/blob/master/D.cpp) РёР»Рё [СЂРµС€РµРЅРёРµ Р±РµР· РјР°СЃСЃРёРІРѕРІ](https://github.com/nsychev/hmopen2017/blob/master/D_light.cpp) | [D.py](https://github.com/nsychev/hmopen2017/blob/master/D.py)
+E | [E.pas](https://github.com/nsychev/hmopen2017/blob/master/E.pas) | [E.cpp](https://github.com/nsychev/hmopen2017/blob/master/E.cpp) | [E.py](https://github.com/nsychev/hmopen2017/blob/master/E.py)
+F | [F.pas](https://github.com/nsychev/hmopen2017/blob/master/F.pas) | [F.cpp](https://github.com/nsychev/hmopen2017/blob/master/F.cpp) | [F.py](https://github.com/nsychev/hmopen2017/blob/master/F.py)
+
+РђРІС‚РѕСЂС‹ Р·Р°РґР°С‡ вЂ” РќРёРєРёС‚Р° РЎС‹С‡РµРІ, РђСЂСЃР»Р°РЅ РђРєРЅР°Р·Р°СЂРѕРІ
+
+[Р РµР·СѓР»СЊС‚Р°С‚С‹](https://contest.yandex.ru/contest/4472/standings/)
 
 
